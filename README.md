@@ -17,6 +17,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ivayloshopov33&show_icons=true&locale=en" alt="ivayloshopov33" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivayloshopov33&" alt="ivayloshopov33" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=IvayloShopov33)](https://git.io/streak-stats)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/IvayloShopov33?theme=nord)](https://leetcode.com/IvayloShopov33)
