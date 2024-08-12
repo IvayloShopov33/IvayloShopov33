@@ -2,12 +2,13 @@
 <h3 align="center">A passionate C# learner from Bulgaria</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **C# OOP**
+- 🌱 I’m currently learning **C# Web**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/ivaylo.shopov.777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ivaylo.shopov.777" height="30" width="40" /></a>
 <a href="https://instagram.com/shopov33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shopov33" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ivaylo-shopov-6474b4321/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ivaylo-shopov-6474b4321" height="30" width="100" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
